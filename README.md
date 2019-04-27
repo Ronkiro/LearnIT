@@ -11,7 +11,7 @@ If you think that any links should be added here you can directly open a Pull Re
 ~ = Author's recommendation<br>
 (The main labels, UPPERCASE ones, represent a general area) 
 
-## DEVELOPMENT
+# DEVELOPMENT
 ## Javascript<br>
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
 
@@ -27,6 +27,6 @@ If you think that any links should be added here you can directly open a Pull Re
 ## Git<br>
 - <a href=http://onlywei.github.io/explain-git-with-d3/>Explain Git with D3</a> (English) ~
 
-## SECURITY<br>
+# SECURITY<br>
 - <a href=https://www.cybrary.it/>Cybrary</a> (English)
 
