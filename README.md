@@ -16,7 +16,8 @@ If you think that any links should be added here you can directly open a Pull Re
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
 
 ## React<br>
-- <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
+- <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>
+- <a href=https://scrimba.com/playlist/p7P5Hd>Scrimba - Free React Interactive lessons</a> ~
 
 ## HTML<br>
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
