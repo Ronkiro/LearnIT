@@ -1,13 +1,11 @@
-# Developer Learning Resources
-
-## DESCRIPTION<br>
+# Developer Learning Resources<br>
 This repository shows off free resources that may help/guide new developers into learning IT related content.
 I highly recommend using CTRL + F to search for the technology you are looking for.
 
-## CONTRIBUTING<br>
+## HOW TO CONTRIBUTE<br>
 If you think that any links should be added here you can directly open a Pull Request. Otherwise, if you think it should be better discussed, you can open an Issue.
 
-# LABELS<br>
+# UNDERSTANDING THE SYMBOLS<br>
 ~ = Author's recommendation<br>
 (The main labels, UPPERCASE ones, represent a general area) 
 
