@@ -1,13 +1,13 @@
 # Developer Learning Resources<br>
 This repository shows off free resources that may help/guide new developers into learning IT related content.
-I highly recommend using CTRL + F to search for the technology you are looking for.
+I highly **recommend using *CTRL + F* to search the technology you are looking for.**
 
 ## HOW TO CONTRIBUTE<br>
-If you think that any links should be added here you can directly open a Pull Request. Otherwise, if you think it should be better discussed, you can open an Issue.
+If you think that any links *should* be added here you can directly open a Pull Request. Otherwise, if you think it should be better discussed, you can **open an Issue**.
 
 # UNDERSTANDING THE SYMBOLS<br>
-~ = Author's recommendation<br>
-(The main labels, UPPERCASE ones, represent a general area) 
+**~** = Author's recommendation<br>
+(The main labels, **UPPERCASE** ones, represent a general area) 
 
 # DEVELOPMENT
 ## Javascript<br>
