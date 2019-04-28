@@ -19,6 +19,9 @@ If you think that any links should be added here you can directly open a Pull Re
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>
 - <a href=https://scrimba.com/playlist/p7P5Hd>Scrimba - Free React Interactive lessons</a> ~
 
+## Python<br>
+- <a href=https://learnpythonthehardway.org/python3/>Learn Python 3 the hard way</a>
+
 ## HTML<br>
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
 
