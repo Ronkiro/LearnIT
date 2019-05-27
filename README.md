@@ -12,7 +12,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * [Development](#development)
 * [Security](#security)
 * [System Administration](#system-administration-)
-
+<br><br><br>
 ## DEVELOPMENT
 ### Algorithms/Development general
 * <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>  (English)
