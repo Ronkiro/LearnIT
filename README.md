@@ -23,6 +23,7 @@ If you think that any links *should* be added here you can directly open a Pull 
 ### Javascript<br>
 * <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
 * <a href=https://github.com/30-seconds/30-seconds-of-code>30 Seconds of Code</a>
+* <a href=https://github.com/getify/You-Dont-Know-JS>You don't know JS (Book)</a> (English) ~
 
 ### React<br>
 * <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English)
