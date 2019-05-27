@@ -10,9 +10,10 @@ If you think that any links *should* be added here you can directly open a Pull 
 (The main labels, **UPPERCASE** ones, represent a general area) 
 
 # DEVELOPMENT
-## Algorithms
+## Algorithms/Development general
 - <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>
 - <a href=https://github.com/TheAlgorithms/Python>All algorithms</a>
+- <a href=https://github.com/tuvtran/project-based-learning>Project Based Learning</a>
 
 ## Javascript<br>
 - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
