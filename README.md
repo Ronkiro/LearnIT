@@ -2,9 +2,6 @@
 This repository shows off free resources that may help/guide new people learning IT related content.
 I highly **recommend using <kbd>CTRL</kbd> + <kbd>F</kbd> to search the technology you are looking for.**
 
-## HOW TO CONTRIBUTE<br>
-If you think that any links *should* be added here you can directly open a Pull Request. Otherwise, if you think it should be better discussed, you can **open an Issue**.
-
 ## UNDERSTANDING THE SYMBOLS<br>
 **~** = Author's recommendation<br>
 (The main labels, **UPPERCASE** ones, represent a general area) 
