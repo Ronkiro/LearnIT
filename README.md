@@ -2,6 +2,8 @@
 This repository shows off free resources that may help/guide new people learning IT related content.
 I highly **recommend using <kbd>CTRL</kbd> + <kbd>F</kbd> to search the technology you are looking for.**
 
+If you have any ideas on how to help with this repository, please read [How to Contribute](https://github.com/Ronkiro/LearnIT/blob/master/CONTRIBUTING.md).
+
 ## UNDERSTANDING THE SYMBOLS<br>
 **~** = Author's recommendation<br>
 (The main labels, **UPPERCASE** ones, represent a general area) 
