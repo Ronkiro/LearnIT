@@ -36,3 +36,5 @@ If you think that any links *should* be added here you can directly open a Pull 
 # SECURITY<br>
 - <a href=https://www.cybrary.it/>Cybrary</a> (English)
 
+# GENERAL <br>
+- <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>
