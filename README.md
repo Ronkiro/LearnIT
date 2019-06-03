@@ -30,6 +30,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 
 ### Python<br>
 * <a href=https://learnpythonthehardway.org/python3/>Learn Python 3 the hard way</a>  (English)
+* <a href=https://realpython.com/pointers-in-python/>Pointers in Python</a> (English) ~
 
 ### HTML<br>
 * <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
