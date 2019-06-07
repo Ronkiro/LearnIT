@@ -43,6 +43,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 
 ## SECURITY<br>
 * <a href=https://www.cybrary.it/>Cybrary</a> (English)
+* <a href=https://github.com/sbilly/awesome-security>Awesome Security</a> (English)
 
 ## SYSTEM ADMINISTRATION <br>
 * <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>  (English)
