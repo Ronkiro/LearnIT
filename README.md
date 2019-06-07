@@ -18,6 +18,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>  (English)
 * <a href=https://github.com/TheAlgorithms/Python>All algorithms</a>  (English)
 * <a href=https://github.com/tuvtran/project-based-learning>Project Based Learning</a>  (English)
+* [freecourses.github.io](https://freecourses.github.io/)
 
 ### Javascript<br>
 * <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
