@@ -46,6 +46,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * <a href=https://www.cybrary.it/>Cybrary</a> (English)
 * <a href=https://github.com/sbilly/awesome-security>Awesome Security</a> (English)
 * [How to store your users password safely](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
+* [Repo ZenK Sec](https://repo.zenk-security.com/?dir=.)
 
 ## SYSTEM ADMINISTRATION <br>
 * <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>  (English)
