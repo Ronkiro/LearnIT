@@ -47,6 +47,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * <a href=https://github.com/sbilly/awesome-security>Awesome Security</a> (English)
 * [How to store your users password safely](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
 * [Repo ZenK Sec](https://repo.zenk-security.com/?dir=.)
+* [Phishing by a hacker's perspective](https://medium.com/@curtbraz/gone-phishin-an-attacker-s-perspective-solutions-857b26b03d38)
 
 ## SYSTEM ADMINISTRATION <br>
 * <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>  (English)
