@@ -15,43 +15,43 @@ If you have any ideas on how to help with this repository, please read [How to C
 * [System Administration](#system-administration-)
 <br><br><br>
 ## GENERAL
-* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* ![List/English](https://img.shields.io/badge/List-English-orange.svg) - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## DEVELOPMENT
 ### Algorithms/Development general
-* <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>  (English)
-* <a href=https://github.com/TheAlgorithms/Python>All algorithms</a>  (English)
-* <a href=https://github.com/tuvtran/project-based-learning>Project Based Learning</a>  (English)
-* [freecourses.github.io](https://freecourses.github.io/) (English)
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/TheAlgorithms/Python>All algorithms</a>
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/tuvtran/project-based-learning>Project Based Learning</a>
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [freecourses.github.io](https://freecourses.github.io/)
 
 ### Javascript<br>
-* <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
-* <a href=https://github.com/30-seconds/30-seconds-of-code>30 Seconds of Code</a> (English)
-* <a href=https://github.com/getify/You-Dont-Know-JS>You don't know JS (Book)</a> (English) ~
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/30-seconds/30-seconds-of-code>30 Seconds of Code</a>
+* ![Book/English](https://img.shields.io/badge/Book-English-orange.svg) - <a href=https://github.com/getify/You-Dont-Know-JS>You don't know JS</a> ~
 
 ### React<br>
-* <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English)
-* <a href=https://scrimba.com/playlist/p7P5Hd>Scrimba - Free React Interactive lessons</a>  (English) ~
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://scrimba.com/playlist/p7P5Hd>Scrimba - Free React Interactive lessons</a> ~
 
 ### Python<br>
-* <a href=https://learnpythonthehardway.org/python3/>Learn Python 3 the hard way</a>  (English)
-* <a href=https://realpython.com/pointers-in-python/>Pointers in Python</a> (English) ~
+* ![Book/English](https://img.shields.io/badge/Book-English-orange.svg) - <a href=https://learnpythonthehardway.org/python3/>Learn Python 3 the hard way</a>
+* ![Article/English](https://img.shields.io/badge/Article-English-orange.svg) - <a href=https://realpython.com/pointers-in-python/>Pointers in Python</a> ~
 
 ### HTML<br>
-* <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
 
 ### CSS<br>
-* <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a>  (English) ~
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
 
 ### Git<br>
-* <a href=http://onlywei.github.io/explain-git-with-d3/>Explain Git with D3</a> (English) ~
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=http://onlywei.github.io/explain-git-with-d3/>Explain Git with D3</a> ~
 
 ## SECURITY<br>
-* <a href=https://www.cybrary.it/>Cybrary</a> (English)
-* <a href=https://github.com/sbilly/awesome-security>Awesome Security</a> (English)
-* [How to store your users password safely](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
-* [Repo ZenK Sec](https://repo.zenk-security.com/?dir=.)
-* [Phishing by a hacker's perspective](https://medium.com/@curtbraz/gone-phishin-an-attacker-s-perspective-solutions-857b26b03d38)
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://www.cybrary.it/>Cybrary</a>
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/sbilly/awesome-security>Awesome Security</a>
+* ![Article/English](https://img.shields.io/badge/Article-English-orange.svg) - [How to store your users password safely](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Repo ZenK Sec](https://repo.zenk-security.com/?dir=.)
+* ![Article/English](https://img.shields.io/badge/Article-English-orange.svg) - [Phishing by a hacker's perspective](https://medium.com/@curtbraz/gone-phishin-an-attacker-s-perspective-solutions-857b26b03d38)
 
 ## SYSTEM ADMINISTRATION <br>
-* <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>  (English)
+* ![Resource/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>
