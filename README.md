@@ -1,4 +1,8 @@
 # LearnIT<br>
+[![Contribute](https://img.shields.io/badge/CHECKME-Contribute-green.svg)](https://github.com/Ronkiro/LearnIT/blob/master/CONTRIBUTING.md)
+[![Contents](https://img.shields.io/badge/COOLSTUFF-Contents-red.svg)](#contents)
+
+
 This repository shows off free resources that may help/guide new people learning IT related content.
 I highly **recommend using <kbd>CTRL</kbd> + <kbd>F</kbd> to search the technology you are looking for.**
 
