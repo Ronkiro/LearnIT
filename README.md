@@ -19,7 +19,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * [System Administration](#system-administration-)
 <br><br><br>
 ## GENERAL
-* ![List/English](https://img.shields.io/badge/List-English-orange.svg) - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* ![Resources/English](https://img.shields.io/badge/List-English-orange.svg) - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## DEVELOPMENT
 ### Algorithms/Development general
