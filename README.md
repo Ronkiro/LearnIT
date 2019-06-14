@@ -9,10 +9,14 @@ If you have any ideas on how to help with this repository, please read [How to C
 (The main labels, **UPPERCASE** ones, represent a general area) 
 
 ### CONTENTS
+* [General](#general)
 * [Development](#development)
 * [Security](#security)
 * [System Administration](#system-administration-)
 <br><br><br>
+## GENERAL
+* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 ## DEVELOPMENT
 ### Algorithms/Development general
 * <a href=https://github.com/dwmkerr/hacker-laws>Laws</a>  (English)
