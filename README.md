@@ -57,6 +57,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Repo ZenK Sec](https://repo.zenk-security.com/?dir=.)
 * ![Article/English](https://img.shields.io/badge/Article-English-orange.svg) - [Phishing by a hacker's perspective](https://medium.com/@curtbraz/gone-phishin-an-attacker-s-perspective-solutions-857b26b03d38)
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 
 ## SYSTEM ADMINISTRATION <br>
 * ![Resource/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>
