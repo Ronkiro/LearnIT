@@ -62,6 +62,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [InfoSec Materials DRIVE](https://drive.google.com/drive/mobile/folders/0Bwai0kYN-ieKbzk1cVI2d3YxZ28)
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [InfoSec Materials MEGA](https://mega.nz/?fbclid=IwAR1w-pImOhYO894Tg1urdGKM11n8ePnru7m1AW8dRm0ONXGY_rMd3oYMGFQ#F!8rgBjSDY!lVE5A580mRBWh28njp4QbQ)
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [GDB CheatSheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [My First Buffer Overflow Tutorial by César Benardini](https://www.academia.edu/37992416/Offensive_Security_My_First_Buffer_Overflow_Tutorial)
 
 ## SYSTEM ADMINISTRATION <br>
 * ![Resource/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>
