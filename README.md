@@ -59,8 +59,9 @@ If you have any ideas on how to help with this repository, please read [How to C
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html>Offensive Computer Security Course</a>
-* https://drive.google.com/drive/mobile/folders/0Bwai0kYN-ieKbzk1cVI2d3YxZ28
-* https://mega.nz/?fbclid=IwAR1w-pImOhYO894Tg1urdGKM11n8ePnru7m1AW8dRm0ONXGY_rMd3oYMGFQ#F!8rgBjSDY!lVE5A580mRBWh28njp4QbQ
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [InfoSec Materials DRIVE](https://drive.google.com/drive/mobile/folders/0Bwai0kYN-ieKbzk1cVI2d3YxZ28)
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [InfoSec Materials MEGA](https://mega.nz/?fbclid=IwAR1w-pImOhYO894Tg1urdGKM11n8ePnru7m1AW8dRm0ONXGY_rMd3oYMGFQ#F!8rgBjSDY!lVE5A580mRBWh28njp4QbQ)
+* ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [GDB CheatSheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
 ## SYSTEM ADMINISTRATION <br>
 * ![Resource/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://github.com/jlevy/the-art-of-command-line>The art of command line</a>
