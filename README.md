@@ -49,6 +49,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 
 ### Git<br>
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=http://onlywei.github.io/explain-git-with-d3/>Explain Git with D3</a> ~
+* ![Article/Português](https://img.shields.io/badge/Article-Português-green.svg) - [Trabalhando com Git Hooks de forma fácil](https://willianjusten.com.br/trabalhando-com-git-hooks-de-forma-facil/)
 
 ## SECURITY<br>
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://www.cybrary.it/>Cybrary</a>
