@@ -65,6 +65,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - [GDB CheatSheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [My First Buffer Overflow Tutorial by César Benardini](https://www.academia.edu/37992416/Offensive_Security_My_First_Buffer_Overflow_Tutorial)
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [TrailOfBits' CTF guide](https://trailofbits.github.io/ctf/intro/careers.html)
+* ![Article/English](https://img.shields.io/badge/Article-English-orange.svg) - [Session Fixation](http://shiflett.org/articles/session-fixation)
 
 
 ## SYSTEM ADMINISTRATION <br>
