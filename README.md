@@ -28,6 +28,7 @@ If you have any ideas on how to help with this repository, please read [How to C
 * ![Resource/English](https://img.shields.io/badge/Resource-English-orange.svg) - <a href=https://github.com/tuvtran/project-based-learning>Project Based Learning</a>
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [freecourses.github.io](https://freecourses.github.io/)
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [Design Patterns exercises](http://sce2.umkc.edu/BIT/burrise/pl/design-patterns/qanda.html)
+* ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - [Git guide](https://rogerdudler.github.io/git-guide/)
 
 ### Javascript<br>
 * ![Learn/English](https://img.shields.io/badge/Learn-English-orange.svg) - <a href=https://learn.freecodecamp.org/>FreeCodeCamp</a> ~
